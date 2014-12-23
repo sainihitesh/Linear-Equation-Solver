@@ -1,7 +1,6 @@
 <title>linear Equation of 3 variables sol. Finder</title>
-<link rel="stylesheet" href="jquery/jquery-ui.css">
-<script src='jquery/jquery.js' type="text/javascript"></script>
-
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 <script src='jquery/jquery-ui.js' type="text/javascript"></script>
 <script type="text/javascript">
 	$.fx.speeds._default = 1000;
